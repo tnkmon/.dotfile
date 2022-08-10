@@ -1,0 +1,64 @@
+<META http-equiv='Content-Type' content='text/html; charset=UTF-8'>
+  <!DOCTYPE html>
+  
+    <html>
+      <head>
+        <link rel="stylesheet" type="text/css" href="style.css" />
+        </head>
+      <body>
+    <div id="container">
+     
+    <div> <p id="popupTitle">Memory Saver </p>
+      <p id="tm">IeraciSoft ©</p>
+    </div>
+  
+    <hr/>
+  
+    <div id="tableContainer">
+    <h3> Main Settings </h3>
+  
+    <div id="resp-table"> 
+      <div class="resp-table-row"> 
+        <div class="table-body-cell tableFont"><p>Discard tabs if memory is lower than (GB)</p></div>
+        <div class="table-body-cell tableFont"><input type="text" id="memUserSetting"  class="popupInput"/>  </div>
+     </div>
+     
+     <div class="resp-table-row"> 
+      <div class="table-body-cell tableFont"> <p>Discard inactive tabs after (Mins)</p> </div> 
+      <div class="table-body-cell tableFont"> <input type="text" id="timeUserSetting" class="popupInput"/>  </div>
+     </div>
+    
+     <div class="resp-table-row"> 
+      <div class="table-body-cell tableFont"> <p>Low memory check interval (Mins)</p> </div>
+      <div class="table-body-cell tableFont"> <input type="text" id="memoryPollingUserSetting" class="popupInput"/> </div>
+     </div>
+    </div>
+  
+    <hr/>
+
+    <h3> Exclusions </h3>
+    <div id="resp-table"> 
+      <div class="resp-table-row"> 
+       <div class="table-body-cell tableFont"> <p> Don't discard pinned tabs </p> </div>
+       <div class="table-body-cell tableFont"> <input type="checkbox" id="keepPinnedTabSwitchUserSetting" class="thickbox"> </div>
+     </div>
+     <div class="resp-table-row"> 
+      <div class="table-body-cell tableFont"> <p>New tab discards all if memory is low</p></div>
+      <div class="table-body-cell tableFont">  <input type="checkbox" id="discardOnNewTabOpenUserSetting" class="thickbox"> </div>
+     </div>
+    </div>
+    
+   <hr/>
+  
+    <div id="buttonStrip">
+      <a href="#" id="btnDiscardAll" class="cmdButton">Discard All Tabs</a> 
+      <a href="#" id="btnRestoreAll" class="cmdButton">Restore All Tabs</a>
+      <a href="#" id="btnSave" class="cmdButton">Save</a>
+    </div>
+  
+  </div>
+ 
+  </div>
+      </body>
+      <script src="popup.js"></script>
+    </html>

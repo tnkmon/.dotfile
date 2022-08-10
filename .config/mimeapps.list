@@ -1,0 +1,18 @@
+[Added Associations]
+image/png=viewnior.desktop;
+image/jpeg=viewnior.desktop;
+image/gif=viewnior.desktop;
+image/svg+xml=viewnior.desktop;
+text/x-csrc=geany.desktop;
+text/plain=geany.desktop;
+application/x-shellscript=geany.desktop;
+application/x-theme=geany.desktop;
+application/json=geany.desktop;
+x-scheme-handler/tg=userapp-Telegram Desktop-GD70P1.desktop;
+video/mp4=vlc.desktop;
+application/pdf=brave-browser.desktop;
+
+[Default Applications]
+image/gif=viewnior.desktop
+image/svg+xml=viewnior.desktop
+x-scheme-handler/tg=userapp-Telegram Desktop-GD70P1.desktop

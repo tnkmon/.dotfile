@@ -1,0 +1,36 @@
+2022/08/10-09:08:33.188 b005 Reusing MANIFEST /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/10-09:08:33.188 b005 Recovering log #14
+2022/08/10-09:08:33.197 b005 Reusing old log /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_teams.microsoft.com_0.indexeddb.leveldb/000014.log 
+2022/08/10-12:51:51.027 bda0 Level-0 table #19: started
+2022/08/10-12:51:51.064 bda0 Level-0 table #19: 1797947 bytes OK
+2022/08/10-12:51:51.067 bda0 Delete type=0 #14
+2022/08/10-12:51:51.072 bda0 Compacting 1@1 + 1@2 files
+2022/08/10-12:51:51.133 bda0 Generated table #20@1: 5469 keys, 2152362 bytes
+2022/08/10-12:51:51.159 bda0 Generated table #21@1: 5712 keys, 495340 bytes
+2022/08/10-12:51:51.159 bda0 Compacted 1@1 + 1@2 files => 2647702 bytes
+2022/08/10-12:51:51.161 bda0 compacted to: files[ 0 0 2 0 0 0 0 ]
+2022/08/10-12:51:51.161 bda0 Delete type=2 #16
+2022/08/10-12:51:51.161 bda0 Delete type=2 #19
+2022/08/10-12:51:51.162 bda0 Level-0 table #23: started
+2022/08/10-12:51:51.201 bda0 Level-0 table #23: 2008915 bytes OK
+2022/08/10-12:51:51.204 bda0 Delete type=0 #18
+2022/08/10-12:51:51.211 bec1 Compacting 1@1 + 1@2 files
+2022/08/10-12:51:51.264 bec1 Generated table #24@1: 5928 keys, 2146563 bytes
+2022/08/10-12:51:51.301 bec1 Generated table #25@1: 5281 keys, 1984442 bytes
+2022/08/10-12:51:51.301 bec1 Compacted 1@1 + 1@2 files => 4131005 bytes
+2022/08/10-12:51:51.304 bec1 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/08/10-12:51:51.304 bec1 Delete type=2 #20
+2022/08/10-12:51:51.304 bec1 Delete type=2 #23
+2022/08/10-13:51:57.240 c8c7 Level-0 table #27: started
+2022/08/10-13:51:57.277 c8c7 Level-0 table #27: 1839508 bytes OK
+2022/08/10-13:51:57.281 c8c7 Delete type=0 #22
+2022/08/10-13:51:57.302 c9a1 Compacting 1@1 + 3@2 files
+2022/08/10-13:51:57.354 c9a1 Generated table #28@1: 1401 keys, 2145009 bytes
+2022/08/10-13:51:57.395 c9a1 Generated table #29@1: 5541 keys, 2156635 bytes
+2022/08/10-13:51:57.437 c9a1 Generated table #30@1: 7088 keys, 1398138 bytes
+2022/08/10-13:51:57.437 c9a1 Compacted 1@1 + 3@2 files => 5699782 bytes
+2022/08/10-13:51:57.441 c9a1 compacted to: files[ 0 0 3 0 0 0 0 ]
+2022/08/10-13:51:57.441 c9a1 Delete type=2 #21
+2022/08/10-13:51:57.441 c9a1 Delete type=2 #24
+2022/08/10-13:51:57.441 c9a1 Delete type=2 #25
+2022/08/10-13:51:57.441 c9a1 Delete type=2 #27

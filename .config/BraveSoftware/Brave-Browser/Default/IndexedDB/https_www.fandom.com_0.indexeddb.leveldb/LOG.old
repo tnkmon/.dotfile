@@ -1,0 +1,6 @@
+2022/08/10-13:03:39.772 c5dd Creating DB /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb since it was missing.
+2022/08/10-13:03:39.778 c5dd Reusing MANIFEST /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/10-13:04:00.478 c5dd Level-0 table #5: started
+2022/08/10-13:04:00.480 c5dd Level-0 table #5: 3985 bytes OK
+2022/08/10-13:04:00.483 c5dd Delete type=0 #3
+2022/08/10-13:04:00.483 c5dd Manual compaction at level-0 from (begin) .. (end); will stop at (end)

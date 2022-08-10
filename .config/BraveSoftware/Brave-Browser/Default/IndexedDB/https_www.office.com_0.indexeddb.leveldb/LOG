@@ -1,0 +1,75 @@
+2022/08/10-08:38:14.110 b031 Reusing MANIFEST /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/10-08:38:14.111 b031 Recovering log #28
+2022/08/10-08:38:14.111 b031 Reusing old log /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/000028.log 
+2022/08/10-09:15:37.974 b029 Level-0 table #34: started
+2022/08/10-09:15:38.008 b029 Level-0 table #34: 3389867 bytes OK
+2022/08/10-09:15:38.013 b029 Delete type=0 #28
+2022/08/10-09:15:38.190 b3da Compacting 1@1 + 1@2 files
+2022/08/10-09:15:38.247 b3da Generated table #35@1: 1396 keys, 1246179 bytes
+2022/08/10-09:15:38.247 b3da Compacted 1@1 + 1@2 files => 1246179 bytes
+2022/08/10-09:15:38.251 b3da compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/10-09:15:38.252 b3da Delete type=2 #31
+2022/08/10-09:15:38.252 b3da Delete type=2 #34
+2022/08/10-09:16:01.992 b3dc Level-0 table #37: started
+2022/08/10-09:16:02.101 b3dc Level-0 table #37: 3431958 bytes OK
+2022/08/10-09:16:02.114 b3dc Delete type=0 #33
+2022/08/10-09:16:21.457 b3dc Compacting 1@1 + 1@2 files
+2022/08/10-09:16:21.480 b3dc Generated table #38@1: 1386 keys, 1240009 bytes
+2022/08/10-09:16:21.480 b3dc Compacted 1@1 + 1@2 files => 1240009 bytes
+2022/08/10-09:16:21.484 b3dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/10-09:16:21.484 b3dc Delete type=2 #35
+2022/08/10-09:16:21.484 b3dc Delete type=2 #37
+2022/08/10-09:16:21.558 b2a1 Level-0 table #40: started
+2022/08/10-09:16:21.593 b2a1 Level-0 table #40: 3372035 bytes OK
+2022/08/10-09:16:21.598 b2a1 Delete type=0 #36
+2022/08/10-09:29:44.745 b005 Compacting 1@1 + 1@2 files
+2022/08/10-09:29:44.769 b005 Generated table #41@1: 1361 keys, 1217394 bytes
+2022/08/10-09:29:44.769 b005 Compacted 1@1 + 1@2 files => 1217394 bytes
+2022/08/10-09:29:44.774 b005 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/10-09:29:44.774 b005 Delete type=2 #38
+2022/08/10-09:29:44.774 b005 Delete type=2 #40
+2022/08/10-09:30:02.569 b029 Level-0 table #43: started
+2022/08/10-09:30:02.664 b029 Level-0 table #43: 3481532 bytes OK
+2022/08/10-09:30:02.670 b029 Delete type=0 #39
+2022/08/10-10:58:25.194 b706 Compacting 1@1 + 1@2 files
+2022/08/10-10:58:25.217 b706 Generated table #44@1: 1361 keys, 1217368 bytes
+2022/08/10-10:58:25.217 b706 Compacted 1@1 + 1@2 files => 1217368 bytes
+2022/08/10-10:58:25.220 b706 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/10-10:58:25.220 b706 Delete type=2 #41
+2022/08/10-10:58:25.220 b706 Delete type=2 #43
+2022/08/10-10:58:25.309 b705 Level-0 table #46: started
+2022/08/10-10:58:25.379 b705 Level-0 table #46: 3313838 bytes OK
+2022/08/10-10:58:25.384 b705 Delete type=0 #42
+2022/08/10-11:02:35.086 b701 Compacting 1@1 + 1@2 files
+2022/08/10-11:02:35.115 b701 Generated table #47@1: 1407 keys, 1253588 bytes
+2022/08/10-11:02:35.115 b701 Compacted 1@1 + 1@2 files => 1253588 bytes
+2022/08/10-11:02:35.122 b701 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/10-11:02:35.300 b704 Level-0 table #49: started
+2022/08/10-11:02:35.339 b704 Level-0 table #49: 3468728 bytes OK
+2022/08/10-11:02:35.344 b704 Delete type=2 #44
+2022/08/10-11:02:35.344 b704 Delete type=0 #45
+2022/08/10-11:02:35.344 b704 Delete type=2 #46
+2022/08/10-11:26:39.641 bda0 Compacting 1@1 + 1@2 files
+2022/08/10-11:26:39.669 bda0 Generated table #50@1: 1376 keys, 1229438 bytes
+2022/08/10-11:26:39.669 bda0 Compacted 1@1 + 1@2 files => 1229438 bytes
+2022/08/10-11:26:39.673 bda0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/10-11:46:56.031 b704 Level-0 table #52: started
+2022/08/10-11:46:56.062 b704 Level-0 table #52: 3419361 bytes OK
+2022/08/10-11:46:56.069 b704 Delete type=2 #47
+2022/08/10-11:46:56.069 b704 Delete type=0 #48
+2022/08/10-11:46:56.069 b704 Delete type=2 #49
+2022/08/10-12:52:54.529 b704 Compacting 1@1 + 1@2 files
+2022/08/10-12:52:54.548 b704 Generated table #53@1: 1366 keys, 1223022 bytes
+2022/08/10-12:52:54.548 b704 Compacted 1@1 + 1@2 files => 1223022 bytes
+2022/08/10-12:52:54.553 b704 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/10-12:52:54.613 bda1 Level-0 table #55: started
+2022/08/10-12:52:54.644 bda1 Level-0 table #55: 3353720 bytes OK
+2022/08/10-12:52:54.651 bda1 Delete type=2 #50
+2022/08/10-12:52:54.651 bda1 Delete type=0 #51
+2022/08/10-12:52:54.651 bda1 Delete type=2 #52
+2022/08/10-13:37:20.868 c8c7 Compacting 1@1 + 1@2 files
+2022/08/10-13:37:20.891 c8c7 Generated table #56@1: 1361 keys, 1217313 bytes
+2022/08/10-13:37:20.892 c8c7 Compacted 1@1 + 1@2 files => 1217313 bytes
+2022/08/10-13:37:20.894 c8c7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/10-13:37:20.895 c8c7 Delete type=2 #53
+2022/08/10-13:37:20.895 c8c7 Delete type=2 #55
