@@ -1,0 +1,6 @@
+2022/08/10-13:03:36.061 bec1 Creating DB /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_warframe.fandom.com_0.indexeddb.leveldb since it was missing.
+2022/08/10-13:03:36.079 bec1 Reusing MANIFEST /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_warframe.fandom.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/10-13:54:27.672 caf5 Level-0 table #5: started
+2022/08/10-13:54:27.681 caf5 Level-0 table #5: 33127 bytes OK
+2022/08/10-13:54:27.687 caf5 Delete type=0 #3
+2022/08/10-13:54:27.688 caf5 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

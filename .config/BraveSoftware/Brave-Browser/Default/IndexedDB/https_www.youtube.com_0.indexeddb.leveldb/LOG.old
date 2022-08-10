@@ -1,0 +1,21 @@
+2022/08/09-16:01:29.263 909d Reusing MANIFEST /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/09-16:01:29.263 909d Recovering log #24
+2022/08/09-16:01:29.279 909d Reusing old log /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000024.log 
+2022/08/09-16:10:33.566 9556 Level-0 table #29: started
+2022/08/09-16:10:33.599 9556 Level-0 table #29: 1008987 bytes OK
+2022/08/09-16:10:33.604 9556 Delete type=0 #24
+2022/08/09-16:13:19.010 8f6c Compacting 1@1 + 1@2 files
+2022/08/09-16:13:19.016 8f6c Generated table #30@1: 362 keys, 26077 bytes
+2022/08/09-16:13:19.016 8f6c Compacted 1@1 + 1@2 files => 26077 bytes
+2022/08/09-16:13:19.021 8f6c compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/09-16:13:19.021 8f6c Delete type=2 #26
+2022/08/09-16:13:19.021 8f6c Delete type=2 #29
+2022/08/09-16:35:48.743 9f1e Level-0 table #32: started
+2022/08/09-16:35:48.781 9f1e Level-0 table #32: 1085643 bytes OK
+2022/08/09-16:35:48.790 9f1e Delete type=0 #28
+2022/08/09-16:36:45.048 99b8 Compacting 1@1 + 1@2 files
+2022/08/09-16:36:45.060 99b8 Generated table #33@1: 444 keys, 39215 bytes
+2022/08/09-16:36:45.060 99b8 Compacted 1@1 + 1@2 files => 39215 bytes
+2022/08/09-16:36:45.063 99b8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/09-16:36:45.064 99b8 Delete type=2 #30
+2022/08/09-16:36:45.064 99b8 Delete type=2 #32

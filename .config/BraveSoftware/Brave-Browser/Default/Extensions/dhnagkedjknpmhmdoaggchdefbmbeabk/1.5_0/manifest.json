@@ -1,0 +1,34 @@
+{
+   "background": {
+      "scripts": [ "background.js" ]
+   },
+   "browser_action": {
+      "default_icon": {
+         "16": "images/icon.png"
+      },
+      "default_popup": "popup.html"
+   },
+   "content_scripts": [ {
+      "js": [ "content.js" ],
+      "matches": [ "*://*/*" ]
+   } ],
+   "description": "Reduce Chrome's memory usage by setting inactive tabs to sleep or system memory is low",
+   "icons": {
+      "128": "images/icon.png",
+      "16": "images/icon.png",
+      "18": "images/icon.png",
+      "19": "images/icon.png",
+      "256": "images/icon.png",
+      "32": "images/icon.png",
+      "36": "images/icon.png",
+      "38": "images/icon.png",
+      "48": "images/icon.png",
+      "64": "images/icon.png"
+   },
+   "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEArte3OZ8+VK7HLKYq5Mj9BWLpu5VEYPDRK30TH2uG7ofI1mC3ryeBqZTGxeolpsPSeNCcDyQ8Tqn7tD7azeT7bLD1dAJQLQH4ICey66/66htslOlywkIv/l43fSV2hEdS9H0jv4Nbur9oUcs6zG78FifbVR5t+rfJbAcH52fLTlj7OK8WQ2GCocn0FyRX6/JFgafAaDQnFFs0C6wHnyJ1JipZgrhUDklN4SRLkE9UK1av1ssVEPeeaKWSqSKgT3RnrK1YQWoMJwazfWfwDJmm3Zr4/K5xUwv3+cSnJUt6+V4eBWks4ZDesukKLZaAXcn5XyQ6urGB2Hj6eQ2DOMmtJQIDAQAB",
+   "manifest_version": 2,
+   "name": "Memory Saver",
+   "permissions": [ "storage", "alarms", "system.memory", "*://*/*" ],
+   "update_url": "https://clients2.google.com/service/update2/crx",
+   "version": "1.5"
+}

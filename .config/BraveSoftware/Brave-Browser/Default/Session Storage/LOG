@@ -1,0 +1,12 @@
+2022/08/10-08:38:03.101 5 Reusing MANIFEST /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/Session Storage/MANIFEST-000001
+2022/08/10-08:38:03.107 5 Recovering log #42
+2022/08/10-08:38:03.108 5 Reusing old log /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/Session Storage/000042.log 
+2022/08/10-08:38:24.607 3 Level-0 table #47: started
+2022/08/10-08:38:24.614 3 Level-0 table #47: 22993 bytes OK
+2022/08/10-08:38:24.628 3 Delete type=0 #42
+2022/08/10-09:43:51.816 32 Level-0 table #49: started
+2022/08/10-09:43:51.825 32 Level-0 table #49: 33442 bytes OK
+2022/08/10-09:43:51.833 32 Delete type=0 #46
+2022/08/10-13:43:07.702 f2 Level-0 table #51: started
+2022/08/10-13:43:07.710 f2 Level-0 table #51: 34867 bytes OK
+2022/08/10-13:43:07.721 f2 Delete type=0 #48

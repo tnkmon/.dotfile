@@ -1,0 +1,6 @@
+2022/08/09-14:31:04.627 8a31 Creating DB /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb since it was missing.
+2022/08/09-14:31:04.633 8a31 Reusing MANIFEST /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.instagram.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/08/09-14:31:27.647 8a30 Level-0 table #5: started
+2022/08/09-14:31:27.651 8a30 Level-0 table #5: 3606 bytes OK
+2022/08/09-14:31:27.658 8a30 Delete type=0 #3
+2022/08/09-14:31:27.658 8a30 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

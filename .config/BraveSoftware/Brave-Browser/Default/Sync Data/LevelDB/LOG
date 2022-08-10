@@ -1,0 +1,69 @@
+2022/08/10-08:38:03.014 b007 Reusing MANIFEST /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/08/10-08:38:03.015 b007 Recovering log #69
+2022/08/10-08:38:03.016 b007 Reusing old log /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/Sync Data/LevelDB/000069.log 
+2022/08/10-09:08:39.131 b23f Level-0 table #74: started
+2022/08/10-09:08:39.136 b23f Level-0 table #74: 76954 bytes OK
+2022/08/10-09:08:39.139 b23f Delete type=0 #69
+2022/08/10-09:29:15.285 b2a1 Level-0 table #76: started
+2022/08/10-09:29:15.290 b2a1 Level-0 table #76: 70882 bytes OK
+2022/08/10-09:29:15.295 b2a1 Delete type=0 #73
+2022/08/10-10:05:25.410 b701 Level-0 table #78: started
+2022/08/10-10:05:25.426 b701 Level-0 table #78: 67159 bytes OK
+2022/08/10-10:05:25.433 b701 Delete type=0 #75
+2022/08/10-11:06:05.190 b705 Level-0 table #80: started
+2022/08/10-11:06:05.195 b705 Level-0 table #80: 60990 bytes OK
+2022/08/10-11:06:05.198 b705 Delete type=0 #77
+2022/08/10-11:06:05.198 b701 Compacting 4@0 + 1@1 files
+2022/08/10-11:06:05.206 b701 Generated table #81@0: 97 keys, 16727 bytes
+2022/08/10-11:06:05.206 b701 Compacted 4@0 + 1@1 files => 16727 bytes
+2022/08/10-11:06:05.210 b701 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/10-11:06:05.210 b701 Delete type=2 #71
+2022/08/10-11:06:05.210 b701 Delete type=2 #74
+2022/08/10-11:06:05.210 b701 Delete type=2 #76
+2022/08/10-11:06:05.210 b701 Delete type=2 #78
+2022/08/10-11:06:05.210 b701 Delete type=2 #80
+2022/08/10-11:34:10.575 bda1 Level-0 table #83: started
+2022/08/10-11:34:10.580 bda1 Level-0 table #83: 69068 bytes OK
+2022/08/10-11:34:10.585 bda1 Delete type=0 #79
+2022/08/10-12:35:43.252 bec1 Level-0 table #85: started
+2022/08/10-12:35:43.257 bec1 Level-0 table #85: 61779 bytes OK
+2022/08/10-12:35:43.262 bec1 Delete type=0 #82
+2022/08/10-13:03:37.818 bec1 Level-0 table #87: started
+2022/08/10-13:03:37.824 bec1 Level-0 table #87: 70310 bytes OK
+2022/08/10-13:03:37.830 bec1 Delete type=0 #84
+2022/08/10-13:11:34.370 c830 Level-0 table #89: started
+2022/08/10-13:11:34.377 c830 Level-0 table #89: 140450 bytes OK
+2022/08/10-13:11:34.382 c830 Delete type=0 #86
+2022/08/10-13:11:34.383 c830 Compacting 4@0 + 1@1 files
+2022/08/10-13:11:34.393 c830 Generated table #90@0: 99 keys, 25127 bytes
+2022/08/10-13:11:34.393 c830 Compacted 4@0 + 1@1 files => 25127 bytes
+2022/08/10-13:11:34.397 c830 compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/10-13:11:34.397 c830 Delete type=2 #81
+2022/08/10-13:11:34.397 c830 Delete type=2 #83
+2022/08/10-13:11:34.397 c830 Delete type=2 #85
+2022/08/10-13:11:34.397 c830 Delete type=2 #87
+2022/08/10-13:11:34.397 c830 Delete type=2 #89
+2022/08/10-13:16:40.689 c82e Level-0 table #92: started
+2022/08/10-13:16:40.695 c82e Level-0 table #92: 200341 bytes OK
+2022/08/10-13:16:40.699 c82e Delete type=0 #88
+2022/08/10-13:20:27.351 c7cf Level-0 table #94: started
+2022/08/10-13:20:27.356 c7cf Level-0 table #94: 186619 bytes OK
+2022/08/10-13:20:27.361 c7cf Delete type=0 #91
+2022/08/10-13:49:26.355 c9a1 Level-0 table #96: started
+2022/08/10-13:49:26.375 c9a1 Level-0 table #96: 71400 bytes OK
+2022/08/10-13:49:26.382 c9a1 Delete type=0 #93
+2022/08/10-14:13:20.961 cecf Level-0 table #98: started
+2022/08/10-14:13:20.979 cecf Level-0 table #98: 74365 bytes OK
+2022/08/10-14:13:20.986 cecf Delete type=0 #95
+2022/08/10-14:13:20.987 cecf Compacting 4@0 + 1@1 files
+2022/08/10-14:13:21.002 cecf Generated table #99@0: 99 keys, 18484 bytes
+2022/08/10-14:13:21.003 cecf Compacted 4@0 + 1@1 files => 18484 bytes
+2022/08/10-14:13:21.006 cecf compacted to: files[ 0 1 1 0 0 0 0 ]
+2022/08/10-14:13:21.007 cecf Delete type=2 #90
+2022/08/10-14:13:21.007 cecf Delete type=2 #92
+2022/08/10-14:13:21.007 cecf Delete type=2 #94
+2022/08/10-14:13:21.007 cecf Delete type=2 #96
+2022/08/10-14:13:21.007 cecf Delete type=2 #98
+2022/08/10-14:37:32.601 c8c7 Level-0 table #101: started
+2022/08/10-14:37:32.619 c8c7 Level-0 table #101: 72822 bytes OK
+2022/08/10-14:37:32.628 c8c7 Delete type=0 #97

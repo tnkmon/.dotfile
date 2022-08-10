@@ -1,0 +1,21 @@
+2022/08/10-08:38:04.166 b028 Reusing MANIFEST /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/MANIFEST-000001
+2022/08/10-08:38:04.167 b028 Recovering log #19
+2022/08/10-08:38:04.171 b028 Reusing old log /home/morgoth/.config/BraveSoftware/Brave-Browser/Default/Local Extension Settings/nngceckbapebfimnlniiiahkandclblb/000019.log 
+2022/08/10-09:27:48.402 b3e0 Level-0 table #24: started
+2022/08/10-09:27:48.419 b3e0 Level-0 table #24: 2509558 bytes OK
+2022/08/10-09:27:48.422 b3e0 Delete type=0 #19
+2022/08/10-09:34:41.963 b3dc Compacting 1@1 + 1@2 files
+2022/08/10-09:34:41.971 b3dc Generated table #25@1: 6 keys, 279347 bytes
+2022/08/10-09:34:41.971 b3dc Compacted 1@1 + 1@2 files => 279347 bytes
+2022/08/10-09:34:41.977 b3dc compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/10-09:34:41.977 b3dc Delete type=2 #21
+2022/08/10-09:34:41.977 b3dc Delete type=2 #24
+2022/08/10-13:00:43.653 bda3 Level-0 table #27: started
+2022/08/10-13:00:43.670 bda3 Level-0 table #27: 2509485 bytes OK
+2022/08/10-13:00:43.672 bda3 Delete type=0 #23
+2022/08/10-13:06:59.857 b704 Compacting 1@1 + 1@2 files
+2022/08/10-13:06:59.868 b704 Generated table #28@1: 6 keys, 279358 bytes
+2022/08/10-13:06:59.868 b704 Compacted 1@1 + 1@2 files => 279358 bytes
+2022/08/10-13:06:59.871 b704 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/08/10-13:06:59.871 b704 Delete type=2 #25
+2022/08/10-13:06:59.871 b704 Delete type=2 #27
